@@ -89,8 +89,8 @@ Fetches and displays the public IP address of the created EC2 instance.
 This is useful to SSH into the instance or access any services running on it.
 
 ## Summary
-  Block                       Purpose
-terraform -------------- Sets required providers and Terraform version
-provider --------------- Configures AWS region
-resource --------------- Provisions an EC2 instance
+  Block                       Purpose <br>
+terraform -------------- Sets required providers and Terraform version <br>
+provider --------------- Configures AWS region <br>
+resource --------------- Provisions an EC2 instance <br>
 output	---------------- Displays the EC2 instance's public IP after creation
